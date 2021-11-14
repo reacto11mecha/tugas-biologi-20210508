@@ -1,0 +1,14 @@
+{
+  "name": "tugas-biologi-20210508",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genSimpulanCabangBiologi.js",
+  "scripts": {
+    "start": "node genSimpulanCabangBiologi.js"
+  },
+  "keywords": [],
+  "author": "Ezra Khairan Permana",
+  "dependencies": {
+    "wikijs": "^6.3.2"
+  }
+}
